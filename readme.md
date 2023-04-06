@@ -5,9 +5,10 @@
 <br>
 
 Desktop image:
-![project image desktop]()
+![project image desktop](./src/desing-project/desktopvideo.gif)
 Mobile image:
-![project image mobile]()
+
+![project image mobile](./src/desing-project/mobilepvideo.gif)
 
 ---
 ## 💻**How was it done?**
