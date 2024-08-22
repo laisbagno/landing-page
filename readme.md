@@ -1,6 +1,6 @@
 <h1 align="center"> Landing Page </h1>
 
-<h2 align="center">Landing page created in the FullStack DevQuest course class using HTML and CSS.</h2>
+<h2 align="center">Landing page created class using HTML and CSS.</h2>
 
 <br>
 
